@@ -1,0 +1,31 @@
+body{
+    background-color: darksalmon;
+    text-align: center;
+}
+
+header{
+    background-color: cornsilk;
+    font-weight: 700;
+    font-size: 50px;
+}
+h1{
+    border-width: thick;
+    border-style: groove;
+    border-color: rgb(rgb(179, 95, 95), rgb(140, 241, 140), rgb(175, 175, 244));
+    font-size: 20px;
+}
+
+h2{
+    border-width: 5ex;
+    border-style: ridge;
+    background-color: aquamarine;
+    font-size: 20px;
+}
+
+footer{
+    padding: 60px;
+    color: chartreuse;
+    font-size: 1cm;
+    font-weight: 800;
+
+}
